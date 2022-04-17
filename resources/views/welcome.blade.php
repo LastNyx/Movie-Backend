@@ -22,7 +22,7 @@
     </head>
     <body>
         <div id="app">
-            <app></app>
+            I'm Here
         </div>
     </body>
 </html>
